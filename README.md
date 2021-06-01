@@ -8,8 +8,6 @@
   	<a href="https://www.instagram.com/dayvidsonveiga/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   	<a href = "mailto: dayvidsonveiga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   	<a href="https://github.com/dayvidsonveiga" target="_blank"><img src="https://img.shields.io/badge/-Github-%230077B5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  	 
-	</p><br>
 </div>
 
 <!--About session-->
@@ -19,7 +17,7 @@
 </div>
 
 <div>
-	<p>Estudante do Curso de Análise e Desenvolvimento de Sistemas na Universidade Cândido Mendes, buscando colocação na área como desenvolvedor junior, amplo conhecimento em HTML, Css, Javascript, C#, bancos de dados.  </p>
+	<p>Estudante do Curso de Análise e Desenvolvimento de Sistemas na Universidade Cândido Mendes, buscando colocação na área como desenvolvedor junior, amplo conhecimento em HTML, Css, Javascript, C#, bancos de dados. Atualmente atuando como Analista de suporte na Indra Company.</p>
 </div>
 
 <div style="display: inline_block"><br>
@@ -31,53 +29,54 @@
   <img align="center" alt="Dayvidson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Dayvidson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/mysql/mysql-original.svg">
   <img align="center" alt="Dayvidson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/git/git-original.svg">
-  <img align="right" alt="Dayvidson-Dev" height="158" width="158" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
+  
 </div>
 
 <div>
-	<h3>👨‍💻 Projetos realizados:</h3>
+<h3>👨‍💻 Projetos realizados:</h3>
 
-	<table border ="2">
-	  <thead align="center">
-	    <tr>
-	      <td>Projeto</td>
-	      <td>Repositório</td>
-	      <td>Descrição</td>
-	    </tr>
-	  </thead>
-	  <tbody align="center">
-	    <tr>
-	      <td><a href="https://abruxahipsta.vercel.app/" target="_blank" rel="noopener noreferrer">A Bruxa Hipsta</a></td>
-	      <td><a href="https://github.com/dayvidsonveiga/imersao-gamedev-javascript-Alura" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a></td>
-	      <td>Projeto realizado pela Imersão GameDev Alura.</td>
-	    </tr>
-	    <tr>
-	      <td><a href="https://clone-instagram.vercel.app/" target="_blank" rel="noopener noreferrer">Clone Home Instagram</a></td>
-	      <td><a href="https://github.com/dayvidsonveiga/pagina-inicio-instagram" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a></td>
-	      <td>Projeto realizado no Bootcamp HTML Web Developer da Digital Innovation One.</td>
-	    </tr>
-	    <tr>
-	      <td><a href="https://clone-netflix.vercel.app/" target="_blank" rel="noopener noreferrer">Clone Interface Netflix</a></td>
-	      <td><a href="https://github.com/dayvidsonveiga/cloneflix-page" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a></td>
-	      <td>Projeto realizado no Bootcamp HTML Web Developer da Digital Innovation One.</td>
-	    </tr>
-	    <tr>
-	      <td><a href="https://game-snake.vercel.app/" target="_blank" rel="noopener noreferrer">Snake Game</a></td>
-	      <td><a href="https://github.com/dayvidsonveiga/snake-game-js" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a></td>
-	      <td>Game Snake criado durante o Bootcamp HTML Developer da Digital Innovation One.</td>
-	    </tr>
-	  </tbody>
-	</table><br>
+<table border ="2">
+<thead align="center">
+<tr>
+  <td>Projeto</td>
+  <td>Repositório</td>
+  <td>Descrição</td>
+</tr>
+</thead>
+<tbody align="center">
+<tr>
+  <td><a href="https://abruxahipsta.vercel.app/" target="_blank" rel="noopener noreferrer">A Bruxa Hipsta</a></td>
+  <td><a href="https://github.com/dayvidsonveiga/imersao-gamedev-javascript-Alura" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a></td>
+  <td>Projeto realizado pela Imersão GameDev Alura.</td>
+</tr>
+<tr>
+  <td><a href="https://clone-instagram.vercel.app/" target="_blank" rel="noopener noreferrer">Clone Home Instagram</a></td>
+  <td><a href="https://github.com/dayvidsonveiga/pagina-inicio-instagram" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a></td>
+  <td>Projeto realizado no Bootcamp HTML Web Developer da Digital Innovation One.</td>
+</tr>
+<tr>
+  <td><a href="https://clone-netflix.vercel.app/" target="_blank" rel="noopener noreferrer">Clone Interface Netflix</a></td>
+  <td><a href="https://github.com/dayvidsonveiga/cloneflix-page" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a></td>
+  <td>Projeto realizado no Bootcamp HTML Web Developer da Digital Innovation One.</td>
+</tr>
+<tr>
+  <td><a href="https://game-snake.vercel.app/" target="_blank" rel="noopener noreferrer">Snake Game</a></td>
+  <td><a href="https://github.com/dayvidsonveiga/snake-game-js" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a></td>
+  <td>Game Snake criado durante o Bootcamp HTML Developer da Digital Innovation One.</td>
+</tr>
+</tbody>
+</table><br>
 </div>
 
-
+<img align="center" alt="Dayvidson-Dev" height="158" width="158" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
   
-
 <div>
   <a href="https://github.com/dayvidsonveiga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayvidsonveiga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayvidsonveiga&layout=compact&langs_count=16&theme=dracula"/>
 <div>
+
+
 
 
 <!--
