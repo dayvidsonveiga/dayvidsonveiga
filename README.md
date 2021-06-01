@@ -81,10 +81,8 @@ Apaixonado por técnologia, com experiência na área de Analista de Suporte Té
 
 - Para saber mais sobre mim, visite meu [Linkedin](https://www.linkedin.com/in/dayvidsonveiga/), lá você poderá visualizar meu perfil completo.<br><br>
 
-<h3>🔍 Fun facts:</h3>
-
-- Nerd, louco por games 🎮, livros 📚, quadrinhos, animes, músicas 🎼, cinema 🎬;
-- Amo minha família 👨‍👩‍👦;
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayvidsonveiga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayvidsonveiga&layout=compact&langs_count=16&theme=dracula"/>
 
 
 <p align="center"><img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1596034333343.png" alt="myoctocat" height="300" width="300"></p>
