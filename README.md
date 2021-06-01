@@ -81,8 +81,11 @@ Apaixonado por técnologia, com experiência na área de Analista de Suporte Té
 
 - Para saber mais sobre mim, visite meu [Linkedin](https://www.linkedin.com/in/dayvidsonveiga/), lá você poderá visualizar meu perfil completo.<br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayvidsonveiga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayvidsonveiga&layout=compact&langs_count=16&theme=dracula"/>
+<div>
+  <a href="https://github.com/dayvidsonveiga">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayvidsonveiga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayvidsonveiga&layout=compact&langs_count=16&theme=dracula"/>
+<div>
 
 
 <p align="center"><img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1596034333343.png" alt="myoctocat" height="300" width="300"></p>
@@ -90,11 +93,4 @@ Apaixonado por técnologia, com experiência na área de Analista de Suporte Té
 <!--
 **dayvidsonveiga/dayvidsonveiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
--->
