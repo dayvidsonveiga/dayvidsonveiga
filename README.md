@@ -66,17 +66,14 @@ Apaixonado por técnologia, com experiência na área de Analista de Suporte Té
   </tbody>
 </table><br>
 
-
-<h3>🌱 I’m currently learning<h3>
-
-- Estudando novas linguagens de programação: 
-<span>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/react/react-original-wordmark.svg" alt="ReactJS" width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/python/python-original.svg" alt="Python" width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/php/php-original.svg" alt="php" width="20" height="20"/>
-</span><br><br>
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Dayvidson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Dayvidson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Dayvidson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dayvidson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Dayvidson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Dayvidson-Dev" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
+  
 <h3>📫 How to reach me:</h3>
 
 - Para saber mais sobre mim, visite meu [Linkedin](https://www.linkedin.com/in/dayvidsonveiga/), lá você poderá visualizar meu perfil completo.<br><br>
@@ -87,8 +84,6 @@ Apaixonado por técnologia, com experiência na área de Analista de Suporte Té
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayvidsonveiga&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 
-
-<p align="center"><img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1596034333343.png" alt="myoctocat" height="300" width="300"></p>
 
 <!--
 **dayvidsonveiga/dayvidsonveiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
