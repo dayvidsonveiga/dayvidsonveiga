@@ -73,6 +73,7 @@ Apaixonado por técnologia, com experiência na área de Analista de Suporte Té
   <img align="center" alt="Dayvidson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dayvidson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Dayvidson-Dev" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
+</div>
   
 <h3>📫 How to reach me:</h3>
 
