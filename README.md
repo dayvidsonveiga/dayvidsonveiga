@@ -17,7 +17,7 @@
 </div>
 
 <div>
-	<p>Estudante do Curso de Análise e Desenvolvimento de Sistemas na Universidade Cândido Mendes, buscando colocação na área como desenvolvedor junior, amplo conhecimento em HTML, Css, Javascript, C#, bancos de dados. Atualmente atuando como Analista de suporte na Indra Company.</p>
+	<p>Estudante do Curso de Análise e Desenvolvimento de Sistemas na Universidade Cândido Mendes, buscando colocação na área como desenvolvedor junior, amplo conhecimento em HTML, Css, Javascript, C#, POO, Bancos de dados. Atualmente atuando como Analista de suporte na Indra Company.</p>
 </div>
 
 <div style="display: inline_block"><br>
