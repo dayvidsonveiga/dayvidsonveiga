@@ -45,22 +45,22 @@
 </thead>
 <tbody align="center">
 <tr>
-  <td><a href="https://abruxahipsta.vercel.app/" target="_blank" rel="noopener noreferrer">A Bruxa Hipsta</a></td>
+  <td><a href="https://witcher-game.vercel.app/" target="_blank" rel="noopener noreferrer">A Bruxa Hipsta</a></td>
   <td><a href="https://github.com/dayvidsonveiga/imersao-gamedev-javascript-Alura" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a></td>
   <td>Projeto realizado pela Imersão GameDev Alura.</td>
 </tr>
 <tr>
-  <td><a href="https://clone-instagram.vercel.app/" target="_blank" rel="noopener noreferrer">Clone Home Instagram</a></td>
+  <td><a href="https://clonegram-mauve.vercel.app/" target="_blank" rel="noopener noreferrer">Clone Home Instagram</a></td>
   <td><a href="https://github.com/dayvidsonveiga/pagina-inicio-instagram" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a></td>
   <td>Projeto realizado no Bootcamp HTML Web Developer da Digital Innovation One.</td>
 </tr>
 <tr>
-  <td><a href="https://clone-netflix.vercel.app/" target="_blank" rel="noopener noreferrer">Clone Interface Netflix</a></td>
+  <td><a href="https://cloneflix-page.vercel.app/" target="_blank" rel="noopener noreferrer">Clone Interface Netflix</a></td>
   <td><a href="https://github.com/dayvidsonveiga/cloneflix-page" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a></td>
   <td>Projeto realizado no Bootcamp HTML Web Developer da Digital Innovation One.</td>
 </tr>
 <tr>
-  <td><a href="https://game-snake.vercel.app/" target="_blank" rel="noopener noreferrer">Snake Game</a></td>
+  <td><a href="https://snake-game-js.vercel.app/" target="_blank" rel="noopener noreferrer">Snake Game</a></td>
   <td><a href="https://github.com/dayvidsonveiga/snake-game-js" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a></td>
   <td>Game Snake criado durante o Bootcamp HTML Developer da Digital Innovation One.</td>
 </tr>
