@@ -45,6 +45,16 @@
 </thead>
 <tbody align="center">
 <tr>
+  <td><a href="https://jogo-da-memoria-topaz.vercel.app/" target="_blank" rel="noopener noreferrer">Jogo da Memória</a></td>
+  <td><a href="https://github.com/dayvidsonveiga/jogo-da-memoria" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a></td>
+  <td>Projeto realizado para fixação de JavaScript.</td>
+</tr>
+<tr>
+  <td><a href="https://jogo-da-velha-js-three.vercel.app/" target="_blank" rel="noopener noreferrer">Jogo da Velha</a></td>
+  <td><a href="https://github.com/dayvidsonveiga/jogo-da-velha-js" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a></td>
+  <td>Projeto realizado para fixação de JavaScript.</td>
+</tr>
+<tr>
   <td><a href="https://witcher-game.vercel.app/" target="_blank" rel="noopener noreferrer">A Bruxa Hipsta</a></td>
   <td><a href="https://github.com/dayvidsonveiga/imersao-gamedev-javascript-Alura" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a></td>
   <td>Projeto realizado pela Imersão GameDev Alura.</td>
