@@ -45,6 +45,11 @@
 </thead>
 <tbody align="center">
 <tr>
+  <td><a href="https://dayvidsonveiga.github.io/top-computers/produtos/" target="_blank" rel="noopener noreferrer">TopComputers</a></td>
+  <td><a href="https://github.com/dayvidsonveiga/top-computers" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a></td>
+  <td>Projeto realizado para fixação de Angular.</td>
+</tr>
+<tr>
   <td><a href="https://jogo-da-memoria-topaz.vercel.app/" target="_blank" rel="noopener noreferrer">Jogo da Memória</a></td>
   <td><a href="https://github.com/dayvidsonveiga/jogo-da-memoria" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a></td>
   <td>Projeto realizado para fixação de JavaScript.</td>
