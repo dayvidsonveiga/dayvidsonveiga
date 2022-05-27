@@ -45,7 +45,7 @@
 </thead>
 <tbody align="center">
 <tr>
-  <td><a href="https://dayvidsonveiga.github.io/top-computers/produtos/" target="_blank" rel="noopener noreferrer">TopComputers</a></td>
+  <td><a href="https://top-computers-dayvidsonveiga.vercel.app/produtos" target="_blank" rel="noopener noreferrer">TopComputers</a></td>
   <td><a href="https://github.com/dayvidsonveiga/top-computers" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a></td>
   <td>Projeto realizado para fixação de Angular.</td>
 </tr>
