@@ -1,13 +1,14 @@
 ## Olá, aqui é o Dayvidson!
 
 :pushpin:
+```
 Estudante do Curso de Análise e Desenvolvimento de Sistemas na Universidade Cândido Mendes com previsão de término para
 final de 2022.
 
 Atualmente atuando como desenvolvedor Java utilizando as principais tecnologias como: Spring Boot, Oracle, MongoDB,
 Kafka, JUnit, Mockito.
 Também me aventuro com HTML, CSS, JavaScript, Node JS.
-
+```
 ## Softwares, linguagens, frameworks e bibliotecas que utilizo:
 <table>
     <tbody>
