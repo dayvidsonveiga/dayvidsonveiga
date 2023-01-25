@@ -2,11 +2,10 @@
 
 :pushpin:
 ```
-Estudante do Curso de Análise e Desenvolvimento de Sistemas na Universidade Cândido Mendes com previsão de término para
-final de 2022.
+Formado em Análise e Desenvolvimento de Sistemas na Universidade Cândido Mendes e cursando pós-graduação em Engenharia de Software.
 
-Atualmente atuando como desenvolvedor Java utilizando as principais tecnologias como: Spring Boot, Oracle, MongoDB,
-Kafka, JUnit, Mockito.
+Atualmente atuando como desenvolvedor backend Java na Getnet utilizando as principais tecnologias como: Spring Boot, Oracle, MongoDB,
+Kafka, Docker, JUnit, Mockito.
 Também me aventuro com HTML, CSS, JavaScript, Node JS.
 ```
 ## Softwares, linguagens, frameworks e bibliotecas que utilizo:
